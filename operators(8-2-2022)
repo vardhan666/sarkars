@@ -1,0 +1,21 @@
+x = 20
+y = 25
+
+print('x > y is',x>y)
+
+print('x < y is',x<y)
+
+print('x == y is',x==y)
+
+print('x != y is',x!=y)
+
+print('x >= y is',x>=y)
+
+print('x <= y is',x<=y)
+output
+x > y is False
+x < y is True
+x == y is False
+x != y is True
+x >= y is False
+x <= y is True
